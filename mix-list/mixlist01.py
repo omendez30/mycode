@@ -8,4 +8,12 @@ print("The last item in the list (state): " + my_list[2] )
 
 iplist = [ 5060, "80", 55, "10.0.0.1", "10.20.30.1", "ssh" ]
 
-print(f"IP addesses: {iplist[3]}, and {iplist[-2]}")
+user_input = input("Please add another element to the iplist: ")
+
+iplist.append(user_input)
+
+print(iplist)
+
+print(f"IP addesses: {iplist[3]}, and {iplist[4]}")
+
+
