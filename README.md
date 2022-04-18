@@ -5,7 +5,7 @@ Tracking my code
 One Paragraph of your project description goes here. Describe what you're trying to do.
 What is the purpose of putting up this repo?
 
-I would like to learv version control to add to my current knowledge base of python
+I would like to learn version control to add to my current knowledge base of python
 
 ## Getting Started
 
